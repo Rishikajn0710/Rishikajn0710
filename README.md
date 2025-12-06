@@ -28,6 +28,13 @@ Quiz app with login, quiz attempts, and score history
 - OTP-based password reset using Nodemailer  
 - Tech: React.js, Node.js, MongoDB, JWT, Redux Toolkit
 
+### 📝 [Notely AI – AI-Powered Note-Taking App](https://github.com/Rishikajn0710/notely-ai)
+Full-stack responsive note-taking application with AI integration  
+- Google OAuth authentication with NextAuth.js  
+- Create, edit, delete, and restore notes  
+- AI-powered summarization and definitions using Google Generative AI Studio 
+- Tech: Next.js, React.js, Tailwind CSS, MongoDB Atlas, Node.js, Vercel
+
 ---
 
 ## 📫 Contact Me
